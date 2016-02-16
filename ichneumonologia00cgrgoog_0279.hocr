@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ichneumonologia00cgrgoog_0279.png"; bbox 0 0 2826 4632; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 337 1031 980 1110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 337 1031 980 1110">
+     <span class='ocr_line' id='line_1_1' title="bbox 337 1031 980 1110; baseline 0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 337 1031 782 1107; x_wconf 81' lang='lat' dir='ltr'>GENUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 885 1031 980 1110; x_wconf 84' lang='lat' dir='ltr'><strong>vn.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 430 1827 859 1922">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 430 1827 859 1922">
+     <span class='ocr_line' id='line_1_2' title="bbox 430 1827 859 1922; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 430 1827 859 1922; x_wconf 79' lang='lat' dir='ltr'><strong>METOPIUS·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1403 1960 1405 2038">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1403 1931 1405 2070">
+     <span class='ocr_line' id='line_1_3' title="bbox 1403 1960 1405 2038; baseline 0 32"><span class='ocrx_word' id='word_1_4' title='bbox 1403 1960 1405 2038; x_wconf 41' lang='grc' dir='ltr'><em>Ν</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 121 2097 1181 2476">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 121 2097 1181 2476">
+     <span class='ocr_line' id='line_1_4' title="bbox 225 2097 1181 2188; baseline 0.001 -12"><span class='ocrx_word' id='word_1_5' title='bbox 225 2097 435 2180; x_wconf 83' lang='lat' dir='ltr'>Abdomine</span> <span class='ocrx_word' id='word_1_6' title='bbox 468 2098 591 2176; x_wconf 74' lang='lat' dir='ltr'>sessili</span> <span class='ocrx_word' id='word_1_7' title='bbox 628 2123 798 2176; x_wconf 80' lang='lat' dir='ltr'>convexo</span> <span class='ocrx_word' id='word_1_8' title='bbox 829 2097 979 2188; x_wconf 75' lang='lat' dir='ltr'><strong>scabr03</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1017 2098 1181 2177; x_wconf 81' lang='lat' dir='ltr'>scutello</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 121 2235 1181 2342; baseline -0.001 -28"><span class='ocrx_word' id='word_1_10' title='bbox 121 2236 430 2342; x_wconf 78' lang='lat' dir='ltr'><strong>quadrangulari,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 464 2235 611 2340; x_wconf 76' lang='lat' dir='ltr'>angulis</span> <span class='ocrx_word' id='word_1_12' title='bbox 644 2235 852 2342; x_wconf 74' lang='lat' dir='ltr'>apiculibus</span> <span class='ocrx_word' id='word_1_13' title='bbox 876 2235 1014 2326; x_wconf 75' lang='lat' dir='ltr'><strong>acutis,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1047 2236 1181 2314; x_wconf 78' lang='lat' dir='ltr'><strong>aculeo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 122 2375 378 2476; baseline -0.008 -24"><span class='ocrx_word' id='word_1_15' title='bbox 122 2375 378 2476; x_wconf 78' lang='lat' dir='ltr'><strong>abscondito).</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1418 4628">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1418 4628">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1418 4628; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1418 4628; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
